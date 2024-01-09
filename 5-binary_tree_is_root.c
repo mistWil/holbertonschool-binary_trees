@@ -11,4 +11,8 @@ int binary_tree_is_root(const binary_tree_t *node)
 		return (0);
 	else
 		return (1);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a902e7cd8508f49b08b6396d476683a50729eb25
