@@ -7,8 +7,8 @@
  */
 int height(const binary_tree_t *tree)
 {
-	int height_left = 0;
-	int height_right = 0;
+	int height_left;
+	int height_right;
 
 	if (tree == NULL)
 		return (0);
